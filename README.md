@@ -10,6 +10,5 @@
 
 ```
 1. Code editor 
-2. Node.js
-3. run npm 
+2. Node.js 
 ```
